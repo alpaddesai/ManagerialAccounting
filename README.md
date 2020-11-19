@@ -7,4 +7,4 @@ Confidential information is not displayed.
 
 All images are either custom by Alpa D Desai or a reference name is included
 
-Details please reference : https://github.com/alpaddesai/CostManagement and https://github.com/alpaddesai/EconomicDecisionMaking
+Details please reference : https://github.com/alpaddesai/CostManagement , https://github.com/alpaddesai/FinancialAccountingIdea and https://github.com/alpaddesai/EconomicDecisionMaking
