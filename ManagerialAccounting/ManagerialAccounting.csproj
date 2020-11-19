@@ -6,4 +6,16 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="CostAnalysis.jpg" />
+    <None Remove="EnvironmentalAccounting.jpg" />
+    <None Remove="FinancialStatementAnalysis.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="CostAnalysis.jpg" />
+    <Resource Include="EnvironmentalAccounting.jpg" />
+    <Resource Include="FinancialStatementAnalysis.jpg" />
+  </ItemGroup>
+
 </Project>

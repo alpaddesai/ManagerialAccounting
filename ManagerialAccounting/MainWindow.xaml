@@ -5,8 +5,39 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ManagerialAccounting"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
-    </Grid>
+        Title="MainWindow" Height="639" Width="965" ResizeMode="CanResize" MaxWidth="965" MaxHeight="639">
+    <TabControl>
+        <TabItem Header="EnvironmentalAccounting">
+            <Grid Background="#FFE5E5E5">
+                <Image Margin="3,-6,17,9" Stretch="Fill" Source="EnvironmentalAccounting.jpg"/>
+            </Grid>
+        </TabItem>
+        <TabItem Header="ManagerialAccounting">
+            <Grid Background="#FFE5E5E5">
+                <TabControl>
+                    <TabItem Header="FinancialStatementAnalysis">
+                        <Grid>
+                            <Grid.Background>
+                                <ImageBrush ImageSource="/FinancialStatementAnalysis.jpg"/>
+                            </Grid.Background>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="180*"/>
+                                <ColumnDefinition Width="773*"/>
+                            </Grid.ColumnDefinitions>
+                        </Grid>
+                    </TabItem>
+                    <TabItem Header="CostAnalysis">
+                        <TabItem.OpacityMask>
+                            <ImageBrush ImageSource="/CostAnalysis.jpg"/>
+                        </TabItem.OpacityMask>
+                        <Grid>
+                            <Grid.Background>
+                                <ImageBrush ImageSource="/CostAnalysis.jpg"/>
+                            </Grid.Background>
+                        </Grid>
+                    </TabItem>
+                </TabControl>
+            </Grid>
+        </TabItem>
+    </TabControl>
 </Window>
