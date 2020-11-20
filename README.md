@@ -12,9 +12,7 @@ All images are either custom by Alpa D Desai or a reference name is included. Ad
 ## Managerial Accounting
 ![image](ManagerialAccounting.png)
 
-
 ## Cost Analysis
 ![image](CostAnalysis.png)
-
 
 Details please reference : https://github.com/alpaddesai/CostManagement , https://github.com/alpaddesai/FinancialAccountingIdea and https://github.com/alpaddesai/EconomicDecisionMaking
