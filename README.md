@@ -9,7 +9,6 @@ All images are either custom by Alpa D Desai or a reference name is included. Ad
 ## Environmental Analysis
 ![image](EnvironmentalAccounting.png)
 
-
 ## Managerial Accounting
 ![image](ManagerialAccounting.png)
 
