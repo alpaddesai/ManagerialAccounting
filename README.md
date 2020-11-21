@@ -13,6 +13,7 @@ All images are either custom by Alpa D Desai or a reference name is included. Ad
 ## Managerial Accounting
 ![image](ManagerialAccounting.png)
 
+
 ## Cost Analysis
 ![image](CostAnalysis.png)
 
