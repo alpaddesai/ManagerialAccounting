@@ -15,9 +15,6 @@ All images are either custom by Alpa D Desai or a reference name is included. Ad
 ## Cost Analysis
 ![image](CostAnalysis.png)
 
-## Exam
-![image](CFAExam.jpg)
-
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
