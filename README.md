@@ -4,7 +4,7 @@ The project provides an overview of Managerial Accounting
 
 Confidential information is not displayed.
 
-All images are either custom by Alpa D Desai or a reference name is included. Additional details reference https://github.com/alpaddesai/ManagerialAccounting/releases
+All images are either custom by Alpa D Desai or a reference name is included. 
 
 ## Environmental Analysis
 ![image](EnvironmentalAccounting.png)
